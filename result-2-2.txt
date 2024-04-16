@@ -1,0 +1,18 @@
+
+**********************************************
+
+1-sequences:
+
+<{45}> -1 count: 176
+<{46}> -1 count: 215
+<{47}> -1 count: 263
+<{49}> -1 count: 187
+<{48}> -1 count: 264
+
+ The count of 1-sequences is: 5
+**********************************************
+
+2-sequences:
+
+
+ The count of 2-sequences is: 0
